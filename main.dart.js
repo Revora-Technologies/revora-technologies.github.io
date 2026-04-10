@@ -64036,7 +64036,7 @@ return A.P($async$pG,r)},
 M(a){var s=this,r=A.bM(a,null,t.w).w.a.a<800,q=r?20:40,p=t.p
 p=r?A.dk(A.c([s.H8(a,!0),B.vN,s.EX(!0)],p),B.H,B.R):A.k1(A.c([A.aaY(s.H8(a,!1),1),B.IK,s.EX(!1)],p),B.H,B.aq)
 return new A.db(new A.aZ(q,80,q,80),p,null)},
-H8(a,b){var s,r=null,q=b?B.H:B.aM,p=A.kb(A.lC("icon.png",r,r,r),100,100),o=b?B.ak:B.b3
+H8(a,b){var s,r=null,q=b?B.H:B.aM,p=A.kb(A.lC("assets/icon.png",r,r,r),100,100),o=b?B.ak:B.b3
 o=A.hH("Zen Void",A.kh(r,r,r,r,r,r,r,r,r,r,r,b?32:40,r,r,B.ax,r,r,!0,r,r,r,r,r,r,r,r),o)
 s=b?B.ak:B.b3
 return A.dk(A.c([p,B.bo,o,B.bo,A.hH("A powerful focus environment that blocks distractions, tracks your progress, and keeps you consistent with sessions, streaks, and rewards.",A.kh(r,r,B.i2,r,r,r,r,r,r,r,r,b?16:18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),s),B.IS,A.lY(A.lt(r,new A.qv(A.lC("assets/play.webp",r,r,200),1,B.a5,B.h7,r,r),B.an,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,this.gRL(),r,r,r),B.b2,r,r,r)],t.p),q,B.R)},
@@ -64065,7 +64065,7 @@ A.nn.prototype={
 tw(){var s=0,r=A.Q(t.H)
 var $async$tw=A.R(function(a,b){if(a===1)return A.N(b,r)
 for(;;)switch(s){case 0:s=2
-return A.S(A.n6(A.M7(null,"revora.tech@gmail.com","subject=Project Inquiry&body=Hi Revora, I would like to...",null,"mailto")),$async$tw)
+return A.S(A.n6(A.M7(null,"revoratechnologies@gmail.com","subject=Project Inquiry&body=Hi Revora, I would like to...",null,"mailto")),$async$tw)
 case 2:if(!b)throw A.f(A.ct("Could not launch email"))
 return A.O(null,r)}})
 return A.P($async$tw,r)},
